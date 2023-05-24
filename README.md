@@ -2,6 +2,7 @@
 - 👨‍💻 Estou me atualizando para ser um Desenvolvedor Full Stack e DBA!.
 - 📚 Cursando Análise e Desenvolvimento de Sistemas no [Centro Universitário FAM](https://vemprafam.com.br/) .
 - 👾 Aprendendo novas tecnologias e desenvolvendo projeto na [Dio.me](https://www.dio.me/) .
+- 👾 Aprendendo novas tecnologias e desenvolvendo projeto na [Alura](https://www.alura.com.br/) .
 - 🎓 Graduado em Gastronomia.
 - 🤔 Busco desenvolver as minhas habilidades, aprender e compartilhar conhecimento com os colegas.
 - 🔭 Professor de Informática por 5 ano | Analista de E-commerce por 8 ano.
