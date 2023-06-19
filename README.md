@@ -1,5 +1,5 @@
 ## ➡️ Ei, eu sou Samir Oliveira!
-- 👨‍💻 Estou me atualizando para ser um Desenvolvedor Full Stack e DBA!.
+- 👨‍💻 Estou me atualizando para ser um Desenvolvedor Front-End e DBA!.
 - 📚 Cursando Análise e Desenvolvimento de Sistemas no [Centro Universitário FAM](https://vemprafam.com.br/) .
 - 👾 Aprendendo novas tecnologias e desenvolvendo projeto na [Dio.me](https://www.dio.me/) .
 - 👾 Aprendendo novas tecnologias e desenvolvendo projeto na [Alura](https://www.alura.com.br/) .
