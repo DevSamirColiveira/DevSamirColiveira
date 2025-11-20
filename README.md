@@ -1,7 +1,7 @@
 ## 👋 Ei, eu sou o Samir Oliveira!
 
 - 📊 **Analista de Dados | BI | SQL | Power BI | Python**
-- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pelo <a href="https://vemprafam.com.br/" target="_blank">Centro Universitário FAM</a>
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pelo [Centro Universitário FAM](https://vemprafam.com.br/) 🔗 *(abre em nova aba)*
 - 💡 Em transição de carreira da **Gastronomia para a área de Dados**
 - 📈 Estudando **SQL, Power BI, Python (Pandas)** e **Excel Avançado**
 - 🧠 Desenvolvendo projetos práticos na <a href="https://www.alura.com.br/" target="_blank">Alura</a> e <a href="https://udemy.com/" target="_blank">Udemy</a>
