@@ -3,10 +3,14 @@
 ![banner](banner.jpg)
 
 - 📊 **Analista de Dados | BI | SQL | Power BI | Python**
-- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pelo [Centro Universitário FAM](https://vemprafam.com.br/) 🔗 *(abre em nova aba)*
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pelo Centro Universitário FAM
 - 💡 Em transição de carreira da **Gastronomia para a área de Dados**
 - 📈 Estudando **SQL, Power BI, Python (Pandas)** e **Excel Avançado**
-- 🧠 Desenvolvendo projetos práticos na <a href="https://www.alura.com.br/" target="_blank" rel="noopener noreferrer">Alura</a> e <a href="https://udemy.com/" rel="opener">Udemy</a>
+- 🧠 Desenvolvendo projetos práticos na dio.me, Alura e Udemy
+- 🎓 Licenças e certificados
+  - [Certificate Alura](https://cursos.alura.com.br/user/samircoliveira/fullCertificate/c209c750a4b7112607e6db1c0270c3a4) 🔗 *(abre em nova aba)*
+  - [Certificate Dio.me](https://github.com/DevSamirColiveira/DevSamirColiveira/blob/main/Dio_me.md)
+  - [Certificate Udemy](https://#) 🔗 *(abre em nova aba)*
 - 💼 Experiência: **Professor de Informática (5 anos)** | **Analista de E-commerce (8 anos)**
 - 🚀 Busco aplicar a análise de dados para gerar **insights estratégicos e apoiar decisões de negócio**
 
