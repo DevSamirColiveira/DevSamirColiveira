@@ -25,6 +25,16 @@ Explore meus projetos e estudos aplicados:
 | **Power BI** | [Dashboard de Controle de Estoque](https://github.com/DevSamirColiveira/portfolio-em-dados/tree/main/Power%20BI/Dashboard_Controle_de_ESTOQUE) | Acompanhamento de níveis de estoque, entradas e saídas de produtos. |
 | **Excel** | [E-commerce Meteora](https://github.com/DevSamirColiveira/portfolio-em-dados/tree/main/Excel/E-commerce_meteora) | Dashboard criado no Excel para análise de vendas de um e-commerce fictício. |
 | **SQL** | [Comandos Básicos e Operadores](https://github.com/DevSamirColiveira/portfolio-em-dados/tree/main/SQL%20para%20an%C3%A1lise%20de%20dados) | Exercícios práticos de SQL para manipulação e análise de dados. |
+---
+## 📂 Carreira de Dados do Samir
+Explore meus projetos e estudos aplicados no chão da fábrica:
+
+| Categoria | Projeto | Descrição |
+|------------|----------|------------|
+| **Power BI** | [Dashboard](https://#) | Texto. |
+| **Power BI** | [Dashboard](https://#) | Texto. |
+| **Excel** | [E-commerce](https://#) | Texto. |
+| **SQL** | [Comandos](https://#) | Texto. |
 
 ---
 
